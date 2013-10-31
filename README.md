@@ -1,4 +1,4 @@
 Arduino_WebServer
 =================
 
-the official Web Server exaple code, just for learning and testing
+the official Web Server example code, just for learning and testing
