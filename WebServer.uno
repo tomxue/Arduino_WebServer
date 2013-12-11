@@ -22,7 +22,9 @@
 // The IP address will be dependent on your local network:
 byte mac[] = { 
   0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
-IPAddress ip(192,168,0,177);    // my host PC's ip is 192.168.0.2, visit 192.168.0.2 from my Firefox
+IPAddress ip(192,168,0,177);
+// set my host PC's ip to be 192.168.0.2, visit 192.168.0.177 from my Firefox
+// can use router or Crossover Ethernet Cable
 
 // Initialize the Ethernet server library
 // with the IP address and port you want to use 
